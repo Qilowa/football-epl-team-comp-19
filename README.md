@@ -1,4 +1,4 @@
-# football-epl-team-comp-19
+# football-team-comp
 
 Dataset of Team Composition from English Premier League Season 2019-2020
 
